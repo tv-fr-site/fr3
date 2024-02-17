@@ -23,6 +23,11 @@ img {
   height: auto;
 }
 
+.playstationpng img {
+  width: 200px; /* ajustez la taille selon vos besoins */
+  height: auto;
+}
+
 header {
   background-color: #0066FF;
   color: #FFF;
