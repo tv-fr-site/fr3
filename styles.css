@@ -8,9 +8,13 @@ body {
   width: 50px; /* ajustez la taille selon vos besoins */
   height: auto;
 }
+img {
+  width: 400px; /* ajustez la taille selon vos besoins */
+  height: auto;
+}
 
-.debutrp img {
-  width: 500px; /* ajustez la taille selon vos besoins */
+.manesinterviewpolitique1 img {
+  width: 200px; /* ajustez la taille selon vos besoins */
   height: auto;
 }
 
