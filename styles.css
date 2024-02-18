@@ -18,6 +18,11 @@ img {
   height: auto;
 }
 
+.RNimg1 img {
+  width: 200px; /* ajustez la taille selon vos besoins */
+  height: auto;
+}
+
 .creteilrefusdobtemperer img {
   width: 200px; /* ajustez la taille selon vos besoins */
   height: auto;
